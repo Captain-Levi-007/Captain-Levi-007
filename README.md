@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @h4ckj0urn3y
-- 👀 I’m interested in H4CK1NG,53CUR17Y 
-- 🌱 I’m currently learning
+- 👀 I’m a Hacker, Security Researcher, Bug hunter ans a Computer guy.
+
