@@ -25,7 +25,7 @@
 ## 🛠️ Hacking Skills & Tech Stack
 
 ### 🔐 Offensive Security
-- OWASP Top 10 (SQLi, XSS, CSRF, SSRF)
+- OWASP Top 10 2025
 - Authentication & Business Logic Flaws
 - API Security Testing
 - File Upload & Deserialization Bugs
@@ -36,6 +36,7 @@
 - Intro Binary Exploitation
 - Reverse Engineering (Ghidra)
 - Hash Cracking & Password Attacks
+- Windows Active Directory
 
 ### 🌐 Networking & Crypto
 - Network Enumeration & Sniffing
@@ -48,7 +49,7 @@
 ## 🧰 Tools I Actually Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker,nginx,mysql,js" />
+  <img src="https://skillicons.dev/icons?i=kali,arch,linux,python,bash,github,git,docker,nginx,postman,windows,mysql,js,cpp,java" />
 </p>
 
 - Burp Suite  
@@ -70,20 +71,6 @@
 - 🔴 Root-Me  
 - 🟠 picoCTF  
 - ⚫ OffSec Proving Grounds  
-
----
-
-## 📊 GitHub Activity (Stable Mode)
-
-> ⚠️ GitHub blocks heavy stats sometimes, so this is the **most reliable setup**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Captain-Levi-007&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Captain-Levi-007&theme=radical&hide_border=true" />
-</p>
 
 ---
 
