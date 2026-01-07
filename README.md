@@ -13,7 +13,6 @@
 ## 🧠 About Me
 
 - 🧑‍💻 Computer Science Engineer & Security Researcher  
-- ⚔️ Inspired by **Captain Levi Ackerman (Attack on Titan)**  
 - 🐧 I use Linux BY THE WAY!! (Arch / Kali)  
 - 🧪 Active CTF player & lab grinder  
 - 🔐 Focused on **Web, System & Network Security**  
