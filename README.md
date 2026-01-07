@@ -73,15 +73,6 @@
 
 ---
 
-## 🧠 Current Focus
-
-- 🧪 Web exploitation & CTFs  
-- 🔐 Privilege escalation techniques  
-- 🧬 Reverse engineering fundamentals  
-- 🛠️ Writing clean exploit scripts  
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
