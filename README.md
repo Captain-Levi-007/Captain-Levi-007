@@ -1,34 +1,55 @@
-<h1 align="center">👋 Hi, I'm Elliot</h1>
+<h1 align="center">Captain Levi 007 ⚔️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Ethical+Hacker;CTF+Player;Bug+Bounty+Learner;Linux+Power+User;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Ethical+Hacker;CTF+Player;Bug+Hunter;Linux+Power+User;Levi+Ackerman" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
+  <img src="https://media1.tenor.com/m/tZjlOSqDtmEAAAAd/ackerman-levi-rage.gif" width="420" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🧑‍💻 Ethical Hacker & CTF Player  
-- 🐧 Linux enthusiast (Arch / Kali)  
-- 🔍 Interested in Web, System & Network Security  
-- 📚 Constantly learning exploitation & internals  
-- ⚡ Fun fact: I break things to understand how they work  
+- 🧑‍💻 Computer Science Engineer & Security Researcher  
+- ⚔️ Inspired by **Captain Levi Ackerman (Attack on Titan)**  
+- 🐧 I use Linux BY THE WAY!! (Arch / Kali)  
+- 🧪 Active CTF player & lab grinder  
+- 🔐 Focused on **Web, System & Network Security**  
+- 📚 Learning exploitation, internals & reverse engineering  
+- ⚡ Philosophy: *No hesitation. No mercy. Just precision.*
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Hacking Skills & Tech Stack
+
+### 🔐 Offensive Security
+- OWASP Top 10 (SQLi, XSS, CSRF, SSRF)
+- Authentication & Business Logic Flaws
+- API Security Testing
+- File Upload & Deserialization Bugs
+
+### 🧪 CTF & Exploitation
+- Linux Privilege Escalation
+- SUID / Capabilities / Cron abuses
+- Intro Binary Exploitation
+- Reverse Engineering (Ghidra)
+- Hash Cracking & Password Attacks
+
+### 🌐 Networking & Crypto
+- Network Enumeration & Sniffing
+- TLS / Certificates / Encryption basics
+- SSH Tunneling & Port Forwarding
+- Wireshark & tcpdump analysis
+
+---
+
+## 🧰 Tools I Actually Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker,nginx,mysql,js" />
 </p>
-
----
-
-## 🔐 Security Tools I Use
 
 - Burp Suite  
 - Nmap  
@@ -37,41 +58,55 @@
 - Hashcat  
 - Ghidra  
 - Wireshark  
+- OWASP ZAP  
 
 ---
 
-## 📊 GitHub Stats
+## 🧪 Practice & CTF Platforms
+
+- 🟢 TryHackMe  
+- 🔵 Hack The Box  
+- 🟣 PortSwigger Web Security Academy  
+- 🔴 Root-Me  
+- 🟠 picoCTF  
+- ⚫ OffSec Proving Grounds  
+
+---
+
+## 📊 GitHub Activity (Stable Mode)
+
+> ⚠️ GitHub blocks heavy stats sometimes, so this is the **most reliable setup**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Captain-Levi-007&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Captain-Levi-007&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🧪 CTF & Practice Platforms
+## 🧠 Current Focus
 
-- TryHackMe  
-- Hack The Box  
-- PortSwigger Web Security Academy  
+- 🧪 Web exploitation & CTFs  
+- 🔐 Privilege escalation techniques  
+- 🧬 Reverse engineering fundamentals  
+- 🛠️ Writing clean exploit scripts  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  <a href="https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Captain-Levi-007">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -80,11 +115,12 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=green&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Captain-Levi-007&color=00ff00&style=flat-square" />
 </p>
 
 ---
 
 <p align="center">
-  <b>"The quieter you become, the more you are able to hear."</b> 🐍
+  <b>"If you don’t fight, you can’t win."</b><br>
+  <i>— Levi Ackerman</i>
 </p>
